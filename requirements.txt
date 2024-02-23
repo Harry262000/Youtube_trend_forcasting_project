@@ -1,0 +1,49 @@
+numpy             # Fundamental package for array computing
+pandas             # Data manipulation and analysis library
+scikit-learn       # Machine learning library for predictive data analysis
+statsmodels  # Statistical modeling and hypothesis testing
+tensorflow          # Deep learning library for building and training neural networks
+keras              # High-level neural networks API, typically used with TensorFlow backend
+prophet             # Time series forecasting library developed by Facebook
+xgboost             # Gradient boosting library for machine learning tasks
+lightgbm            # Gradient boosting library optimized for speed and memory efficiency
+gluonts             # Probabilistic time series modeling library developed by AWS
+pytorch            # Deep learning library for building and training neural networks
+torchvision        # PyTorch's library of vision-friendly tools
+fbprophet           # Time series forecasting library developed by Facebook
+catboost         # Gradient boosting library designed for categorical variables support
+pmdarima            # Python library for ARIMA model fitting
+fastai==2.5.2              # Deep learning library built on PyTorch for easy-to-use training
+pystan==3.2.0              # Bayesian statistical modeling and probabilistic programming
+tsfresh==0.18.0            # Python package for automated feature extraction from time series data
+feather-format==0.4.1      # Lightweight binary columnar data interchange format for data frames
+darts==0.11.0              # Python library for easy manipulation and forecasting of time series data
+tslearn==0.6.0             # Python library for time series analysis and machine learning tasks
+sktime            # Machine learning library for time series data analysis
+hcrystalball      # Python library for time series forecasting models including statistical and ML models
+h3                # Hierarchical hexagonal geospatial indexing system
+orbit-ml           # Python package for Bayesian time series forecasting
+prophet-lstm       # Library combining Facebook Prophet with LSTM for time series forecasting
+pyflux             # Python library for time series analysis and forecasting
+plotly              # Graphing library for interactive, publication-quality graphs
+transformers
+transformers[sentencepiece]
+datasets
+sacrebleu 
+rouge_score 
+py7zr
+pandas
+nltk
+tqdm
+PyYAML
+matplotlib
+torch
+notebook
+boto3
+mypy-boto3-s3
+python-box==6.0.2
+ensure==1.0.2
+fastapi==0.78.0
+uvicorn==0.18.3
+Jinja2==3.1.2
+-e .
