@@ -26,37 +26,8 @@ orbit-ml==1.0.17          # Python package for Bayesian time series forecasting
 prophet-lstm==0.2.0       # Library combining Facebook Prophet with LSTM for time series forecasting
 pyflux==0.4.0             # Python library for time series analysis and forecasting
 plotly==5.3.1             # Graphing library for interactive, publication-quality graphs
-transformers==4.12.0
-transformers[sentencepiece]==4.12.0
-datasets==1.14.0
-sacrebleu==2.0.0
-rouge_score==0.0.4
-py7zr==0.16.1
-nltk==3.6.5
-tqdm==4.62.3
-PyYAML==5.4.1
-matplotlib==3.5.1
-notebook==6.4.3
-boto3==1.20.17
 mypy-boto3-s3==0.5.0
-python-box==6.0.2
-ensure==1.0.2
-fastapi==0.78.0
-uvicorn==0.15.0
-Jinja2==3.1.2
-holidays==0.11.1
-python-dateutil==2.8.0
-scipy==1.7.3
 mxnet==1.8.0
-beautifultable==1.0
-tabulate==0.8
 shap==0.39
--e .
 
 # external requirements
-click==8.0.4
-Sphinx==4.3.0
-coverage==6.3.2
-awscli==1.22.72
-flake8==4.0.1
-python-dotenv>=0.5.1
